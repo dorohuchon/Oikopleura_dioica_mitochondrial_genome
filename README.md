@@ -1,2 +1,2 @@
 # Oikopleura_dioica_mitochondrial_genome
-Oikopleura dioica mitochondrial genome
+Supplementary data Klirs et al. The mitochondrial genome of Oikopleura dioica
