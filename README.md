@@ -60,7 +60,7 @@ This fasta file contains the consensus sequence of the mitochondrial transcript 
 **North_Sea_contigs_SRR20015061.zip**  
 This zipped file contains the mitochondrial contigs of O. dioica from the North Sea assembled based on the RNA reads deposited under SRR20015061. The file includes the sequences in fasta format and the annotations in bed format.
 
-**Japan_contigs_SRR20015061.zip**  
+**Japan_contigs.zip**  
 This zipped file contains the mitochondrial contigs of O. dioica from Japan assembled based on the RNA reads deposited under SRR1693762, SRR1693765, SRR1693766, and SRR1693767. The file includes the sequences in fasta format and the annotations in bed format.
 <br><br>
 
