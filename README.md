@@ -3,7 +3,7 @@
 
 **This repository contains supplemental materials from:**  
 Yael Klirs, Carmela Gissi, Tal Pupko, Thomas Stach, Dorothee Huchon. deciphering the mitochondrial genome of *Oikopleura dioica*
-  
+<br><br>  
 
 ## Reads from PCR fragments
 
@@ -42,14 +42,14 @@ This zipped folder contains the ONT reads in fastq format obtained from the sequ
 
 **Fragment_12.fastq.gz**  
 This zipped folder contains the ONT reads in fastq format obtained from the sequencing of the PCR fragment 12.
-<br>
+<br><br>
 
 
 ## Sequence alignments
 
 **Oikopleura_dioica_mt_alignments.zip**  
 Zipped file presenting the alignment of the longest minion reads to each PCR fragment. Fasta format.
-<br><br><br>
+<br><br>
 
 
 ## contigs assembled from published sequences reads
@@ -59,7 +59,7 @@ This fasta file contains the consensus sequence of the mitochondrial transcript 
 
 **North_Sea_contigs_SRR20015061.zip**  
 This zipped file contains the mitochondrial contigs of O. dioica from the North Sea assembled based on the RNA reads deposited under SRR20015061. The file includes the sequences in fasta format and the annotations in bed format.
-<br>
+<br><br>
 
 
 ## Trees
