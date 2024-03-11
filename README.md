@@ -49,6 +49,13 @@ This zipped folder contains the ONT reads in fastq format obtained from the sequ
 **Oikopleura_dioica_mt_alignments.zip**  
 Zipped file presenting the alignment of the longest minion reads to each PCR fragment. Fasta format.
 
+## contigs assembled from published sequences reads
+
+**EST_oikobase_DNA.fasta**  
+This fasta file contains the consensus sequence of the mitochondrial transcript identified from the EST deposited in Oikobase (http://oikoarrays.biology.uiowa.edu/Oiko/Downloads.html).
+
+**North_Sea_contigs_SRR20015061.zip**  
+This zipped file contains the consensus sequence of the mitochondrial transcript identified from the EST deposited in Oikobase (http://oikoarrays.biology.uiowa.edu/Oiko/Downloads.html).
 
 ## Trees
 
