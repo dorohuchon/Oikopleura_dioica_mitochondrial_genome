@@ -5,7 +5,7 @@
 Yael Klirs, Carmela Gissi, Rade Garic, Tal Pupko, Thomas Stach, Dorothee Huchon. deciphering the mitochondrial genome of *Oikopleura dioica*
 <br><br>  
 
-## Reads from PCR fragments
+## ONT Reads trimmed from adapters obtained from PCR fragments sequencing
 
 **PCR_fragment_01_trimmed.fastq.gz**  
 This zipped folder contains the ONT reads in fastq format obtained from the sequencing of the PCR fragment 1.
