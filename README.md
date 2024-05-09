@@ -48,6 +48,7 @@ This zipped folder contains the ONT reads in fastq format obtained from the sequ
 
 **Oikopleura_dioica_mito.embl**
 Flatfile in EMBL format with the sequence deposited under accession OZ035851 at the European Nucleotide Archive (ENA).
+<br><br>
 
 ## Sequence alignments
 
