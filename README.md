@@ -42,8 +42,12 @@ This zipped folder contains the ONT reads in fastq format obtained from the sequ
 
 **PCR_fragment_12_trimmed.fastq.gz**  
 This zipped folder contains the ONT reads in fastq format obtained from the sequencing of the PCR fragment 12.
-<br><br>
+<br><be>
 
+## Annotated mitochondrial sequence of <i>O. dioica</i>
+
+**Oikopleura_dioica_mito.embl**
+Flatfile in EMBL format with the sequence deposited under accession OZ035851 at the European Nucleotide Archive (ENA).
 
 ## Sequence alignments
 
