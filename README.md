@@ -52,7 +52,7 @@ Flatfile in EMBL format with the sequence deposited under accession OZ035851 at 
 
 ## Sequence alignments
 
-**Oikopleura_dioica_mt_alignments.zip**  
+**Oikopleura_dioica_mt_alignments.zip**
 Zipped file containing the sequence alignments used in the phylogenetic reconstruction. The alignment presents the complete sequence alignment before position filtering. The list of excluded positions is detailed in the file. Nexus format. 
 <br><br>
 
