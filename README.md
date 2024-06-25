@@ -1,9 +1,9 @@
-# Supplementary data Klirs et al., deciphering the mitochondrial genome of *Oikopleura dioica*
+# Supplementary data Klirs et al., Evolutionary Insights from the Mitochondrial Genome of *Oikopleura dioica*: Sequencing Challenges, RNA Editing, Gene Transfers to the Nucleus, and tRNA Loss
 
 
 **This repository contains supplemental materials from:**  
-Yael Klirs, Carmela Gissi, Rade Garic, Tal Pupko, Thomas Stach, Dorothee Huchon. deciphering the mitochondrial genome of *Oikopleura dioica*
-<br><br>  
+Yael Klirs, Carmela Gissi, Rade Garic, Tal Pupko, Thomas Stach, Dorothee Huchon. Evolutionary Insights from the Mitochondrial Genome of *Oikopleura dioica*: Sequencing Challenges, RNA Editing, Gene Transfers to the Nucleus, and tRNA Loss
+<br><br>
 
 ## ONT Reads trimmed from adapters obtained from PCR fragments sequencing
 
@@ -42,7 +42,7 @@ This zipped folder contains the ONT reads in fastq format obtained from the sequ
 
 **PCR_fragment_12_trimmed.fastq.gz**  
 This zipped folder contains the ONT reads in fastq format obtained from the sequencing of the PCR fragment 12.
-<br><be>
+<br><br>
 
 ## Annotated mitochondrial sequence of <i>O. dioica</i>
 
@@ -50,10 +50,16 @@ This zipped folder contains the ONT reads in fastq format obtained from the sequ
 Flatfile in EMBL format with the sequence deposited under accession OZ035851 at the European Nucleotide Archive (ENA).
 <br><br>
 
-## Sequence alignments
+## Sequence alignments and phylogenetic trees
 
 **Oikopleura_dioica_mt_alignments.zip**<br>
 Zipped file containing the sequence alignments used in the phylogenetic reconstruction. The alignment presents the complete sequence alignment before position filtering. The list of excluded positions is detailed in the file. Nexus format. 
+
+**Supermatrices_after_column_reduction.zip**<br>
+Zipped file containing the sequence alignments used in the phylogenetic reconstruction. The alignment presents the complete sequence alignment after position filtering. Phylip format. 
+
+**Phylogenetic_trees.zip**<br>
+Zipped file containing the different phylogenetic trees reconstructed. Newick format. 
 <br><br>
 
 
